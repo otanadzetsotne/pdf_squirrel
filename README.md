@@ -1,7 +1,7 @@
-# Pdf Pages Utils
+# Pdf Squirrel
 
 ## Overview
-The Pdf Pages Utils project is designed to facilitate the detection and manipulation of graphical and text blocks in images. This repository includes scripts for finding blocks in images, converting PDF files to images, normalizing and processing document images, applying blurs to specific sections, and drawing rectangles around detected sentences in images.
+The Pdf Squirrel project is designed to facilitate the detection and manipulation of graphical and text blocks in images. This repository includes scripts for finding blocks in images, converting PDF files to images, normalizing and processing document images, applying blurs to specific sections, and drawing rectangles around detected sentences in images.
 
 ## Features
 - **Block Detection**: Identify and outline blocks in images.
@@ -13,8 +13,8 @@ The Pdf Pages Utils project is designed to facilitate the detection and manipula
 ## Installation
 Clone the repository and navigate to the directory:
 ```bash
-git clone https://github.com/yourusername/pdf_pages_utils.git
-cd pdf_pages_utils
+git clone https://github.com/yourusername/pdf_squirrel.git
+cd pdf_squirrel
 ```
 
 Install the required Python packages:
