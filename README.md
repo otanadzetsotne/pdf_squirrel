@@ -1,7 +1,7 @@
-# Table Detector
+# Pdf Pages Utils
 
 ## Overview
-The Table Detector project is designed to facilitate the detection and manipulation of graphical and text blocks in images. This repository includes scripts for finding blocks in images, converting PDF files to images, normalizing and processing document images, applying blurs to specific sections, and drawing rectangles around detected sentences in images.
+The Pdf Pages Utils project is designed to facilitate the detection and manipulation of graphical and text blocks in images. This repository includes scripts for finding blocks in images, converting PDF files to images, normalizing and processing document images, applying blurs to specific sections, and drawing rectangles around detected sentences in images.
 
 ## Features
 - **Block Detection**: Identify and outline blocks in images.
@@ -13,8 +13,8 @@ The Table Detector project is designed to facilitate the detection and manipulat
 ## Installation
 Clone the repository and navigate to the directory:
 ```bash
-git clone https://github.com/yourusername/table_detector.git
-cd table_detector
+git clone https://github.com/yourusername/pdf_pages_utils.git
+cd pdf_pages_utils
 ```
 
 Install the required Python packages:
